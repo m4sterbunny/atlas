@@ -34,12 +34,14 @@ Atlas Network’s role is to simplify your node operations, allowing you to mana
 
 To provide this service, Atlas Network coordinates the activity of various DePINs (Decentralized Physical Infrastructure Networks). DePINs provide tangible, resources like compute power, storage, or even the physical devices that can support nodes, applications, or services. Atlas Network acts as the orchestration layer: coordinating and incentivizing the DePINs ensuring they work together seamlessly to serve your node-based infrastructure requirements. 
 
-Atlas Network links everyone from protocols to solo stakers to dApp developers to reliable, instantly accessible decentralized physical infrastructure. Atlas Network runs as part of EigenLayer's Actively Validated Services (AVS) ecosystem. AVS are decentralized services that leverage restaked ETH to enhance security and efficiency by accessing Ethereum’s security infrastructure.
+Atlas Network links everyone from protocols to solo stakers to dApp developers to reliable, instantly accessible decentralized physical infrastructure. It does this by leveraging EigenLayer's Actively Validated Services (AVS) ecosystem. AVS are decentralized services that utilize restaked ETH to enhance security and efficiency by accessing Ethereum’s security infrastructure.
 
 
 ##  Explain it like I'm 5
 
-Atlas Network is like a large, safe playground where parents (protocols, developers, or Web3 projects) drop off their kids (nodes) to play. Parents provide pocket money (tokens) and each kid hires allocated toys (infrastructure) from the store (infrastructure provider) using these. Groups of kids converge together to build fantastic structures (decentralized node networks).
+Atlas Network is like a large, safe playground where parents (protocols, developers, or Web3 projects) drop off their kids (nodes) to play. Each parent hires allocated toys (infrastructure) from the playground's store (infrastructure provider) using pocket money (tokens). Groups of kids then converge together to build fantastic structures (decentralized node networks) with these.
+
+<!-- Not clear if this: "using pocket money (tokens)" is valid -- do customers still pay in fiat and providers are rewarded in tokens? -->
 
 Helpful guardians (monitoring systems) watch to ensure everyone plays fairly, that the structures are safe, and that the toys don’t break. If something goes wrong, they quickly fix it, so everyone can keep playing.
 
@@ -47,7 +49,7 @@ The playground has several key features:
 
 - New kids and toys are welcomed in (onboarding).
 - The guardians make sure the environment is safe and the toys are ready to use (deployment and monitoring).
-- Good players get rewards, and bad behavior can incur timeout penalties (incentivization and slashing).
+- Reliable toys earn the store additional rewards, and faulty toys incur store penalties (incentivization and slashing).
 
 
 ## What next?
