@@ -7,7 +7,7 @@ This submission proposes [landing page](land.md) and introduction amendments. No
 My rationale is that:
 
 1. The current landing page lacks text. 
-> Note, that including paragraphs of content with keywords can enhance how snippets are generated for search engine results pages. Keywords on the landing page help Google understand the primary focus and relevance of your site. This can improve click-through rates.
+> Note, that including paragraphs of content with keywords can enhance how snippets are generated for search engine results pages. Keywords on the landing page also help Google understand the primary focus and relevance of your site: this can improve click-through rates.
 
 2. As per the existing landing page, this page leads the user deeper into the documentation. 
 > I have provided one additional page, an overview [learn](learn.md) page on which I attempted to improve the scaffolding of the existing introduction concepts. Otherwise, all links are to existing pages.
