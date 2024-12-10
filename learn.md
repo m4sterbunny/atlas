@@ -55,6 +55,6 @@ Interested in joining the Atlas Network? Learn more about becoming:
 - An [infrastructure provider](https://docs.atlasnetwork.dev/docs/Providers)
 - A token holder
 - A [restaking operator](https://docs.atlasnetwork.dev/docs/Restaking%20Operators)
-- A[NodeWatcher](https://docs.atlasnetwork.dev/docs/NodeWatch%20Network)
+- A [NodeWatcher](https://docs.atlasnetwork.dev/docs/NodeWatch%20Network)
 
 Or [dive deeper](https://docs.atlasnetwork.dev/docs/Core%20Concepts) to understand the technology and tokenomics that ensure that Atlas Network facilitates a reliable decentralized node network. 
