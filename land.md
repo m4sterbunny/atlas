@@ -1,6 +1,6 @@
 # Atlas Network
 
-Welcome to Atlas Network, a one-stop solution for the effortless deployment and maintentance of decentralized nodes. 
+Welcome to Atlas Network, a one-stop solution for the effortless deployment and maintenance of decentralized nodes. 
 
 ## What would you like to do today?
 
@@ -19,9 +19,9 @@ Decentralized compute infrastructures, such as blockchain, must ensure that node
 
 Before Atlas Network launched its marketplace, creating a decentralized and economically secure node network presented several challenges:
 
-- Creating your network effect: Either protocols or a community must work to set up a decentralized network; consuming significant time, resources, and capital.
-- Security Concerns: A lack of decentralization erodes the economic security necessary to protect node networks from attacks.
-- Complexity: Deploying and managing nodes across diverse infrastructure providers is complicated and time-consuming.
+- Creating your network effect: either protocols or a community must work to set up a decentralized network; consuming significant time, resources, and capital.
+- Security Concerns: a lack of decentralization erodes the economic security necessary to protect node networks from attacks.
+- Complexity: deploying and managing nodes across diverse infrastructure providers is complicated and time-consuming.
 
 Atlas Network tackles these challenges head-on. Whether you are a solo node operator looking to earn; a Gaming, AI, or blockchain protocol looking to ensure decentralization and security; or a platform seeking more validators, Atlas Network gets you more nodes.
 

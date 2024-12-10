@@ -8,7 +8,7 @@ By deploying nodes via Atlas Network, protocols across multiple verticals can qu
 - Security and Reliability: providing a robust and secure node network.
 - Ease of Use: Atlas Network massively simplifies the node deployment and management processes. 
 
-Node deployment is so simple that even non technical solo node operators can run a node, as Atlas Network abstracts away the technical overhead.
+> Node deployment is so simple that even non-technical solo node operators can run a node, as Atlas Network abstracts away the technical overhead.
 
 Atlas Network services include:
 
@@ -48,7 +48,7 @@ Helpful guardians (monitoring systems) watch to ensure everyone plays fairly, th
 The playground has several key features:
 
 - New kids and toys are welcomed in (onboarding).
-- The guardians make sure the environment is safe and the toys are ready to use (deployment and monitoring).
+- The guardians ensure the environment is safe and the toys are ready to use (deployment and monitoring).
 - Reliable toys earn the store additional rewards, and faulty toys incur store penalties (incentivization and slashing).
 
 
