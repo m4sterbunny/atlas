@@ -1,6 +1,6 @@
 # Atlas Network
 
-Welcome to Atlas Network, a one-stop solution for the effortless deployment of decentralized nodes. 
+Welcome to Atlas Network, a one-stop solution for the effortless deployment and maintentance of decentralized nodes. 
 
 ## What would you like to do today?
 
